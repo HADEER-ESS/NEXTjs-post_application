@@ -1,4 +1,5 @@
-import Post from "@/components/post"
+// import Post from "@/components/post"
+import Post from "../components/post"
 import { getPosts } from "../lib"
 // import "@/styles/global.css"
 import "../styles/global.css"
