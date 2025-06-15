@@ -1,0 +1,7 @@
+npm run dev
+
+
+// to create Static Export & Share via Local Server
+npm run build
+
+npm run export
