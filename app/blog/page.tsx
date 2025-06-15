@@ -1,4 +1,4 @@
-import Post from "../componsnt/post"
+import Post from "@/components/post"
 import { getPosts } from "../lib"
 import "@/styles/global.css"
 
