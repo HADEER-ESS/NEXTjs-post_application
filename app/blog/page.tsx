@@ -1,6 +1,7 @@
 import Post from "@/components/post"
 import { getPosts } from "../lib"
-import "@/styles/global.css"
+// import "@/styles/global.css"
+import "../styles/global.css"
 
 export default async function Page() {
 

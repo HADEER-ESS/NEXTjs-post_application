@@ -1,6 +1,9 @@
 import Image from "next/image"
 import { getPost } from "../../lib"
-import "@/styles/global.css"
+// import "@/styles/global.css"
+import "../../styles/global.css"
+
+
 type props = {
     params: Promise<{ slug: number }>
 }
